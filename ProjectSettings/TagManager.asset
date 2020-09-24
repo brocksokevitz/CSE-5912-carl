@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Water Volume
+  - PlayerCamera
+  - Pick Up (Stone)
+  - Pick Up (Wood)
+  - Ground
+  - hiddenUI
+  - Fire
+  - RedSpawn
+  - BlueSpawn
+  - Pick Up (Metal)
+  - Undefined
+  - Building
+  - RedSpawnCore
+  - BlueSpawnCore
+  - CapturePoint
+  - Emperor
+  - Pick Up (Ammo)
+  - Pick Up (Health)
+  - Projectile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
